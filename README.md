@@ -16,3 +16,5 @@ $ python3 ./Birthday-Paradox.py
 ## Imagen del código
 <img align="center" src="https://github.com/JSisques/Birthday-Paradox/blob/master/img/Birthday-Paradox.png"/>
 
+## Licencia
+Este proyecto está bajo una licencia MIT, para más información consultar el archivo [LICENSE](https://github.com/JSisques/Birthday-Paradox/blob/master/LICENSE)
